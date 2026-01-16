@@ -15,3 +15,10 @@ Include the files used
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
 
+## Project Description
+This project analyzes bikeshare data for three US cities.
+
+## How to Run
+Run the bikeshare.py file using Python 3.
+
+
