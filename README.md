@@ -21,4 +21,11 @@ This project analyzes bikeshare data for three US cities.
 ## How to Run
 Run the bikeshare.py file using Python 3.
 
+## Files Used
+- bikeshare.py
+- chicago.csv
+- new_york_city.csv
+- washington.csv
+
+
 
