@@ -1,6 +1,8 @@
 """
 Bikeshare Data Analysis Project
 """
+def greet_user():
+    print("Enjoy exploring bikeshare data!")
 
 def main():
     message = "Welcome to the Bikeshare Data Analysis Project"
